@@ -1,0 +1,23 @@
+{
+  "project_info": {
+    "project_number": "123456789012",
+    "project_id": "ton-projet-id",
+    "storage_bucket": "ton-projet-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789012:web:abcdef1234567890",
+        "android_client_info": {
+          "package_name": "com.toncompagnie.tonjeu"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}
